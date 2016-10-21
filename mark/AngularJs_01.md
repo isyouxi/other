@@ -1,8 +1,12 @@
 # Angular 2 
 Angular 的官网 :https://angularjs.org/
+
 Angular CLI 的官网 :https://cli.angular.io/
+
 Node.JS 的官网 :https://nodejs.org/zh-cn/
+
 淘宝NPM镜像:https://npm.taobao.org
+
 ## 安装 
 这里使用 的是 Angular CLI 进行Angular的安装:
 
@@ -17,25 +21,23 @@ Node.JS 的官网 :https://nodejs.org/zh-cn/
 一路点击确定安装好Node.JS<br/>
 可以在命令行输入 node -v 和 npm -v 确定安装好node 和 npm<br/>
 
-- 在Angular-CLI的官网 可以看到它的使用方式：
-
-<p>在命令行内直接输入 
+- 在Angular-CLI的官网里也可以看到它的使用方式：<br/>
+   在命令行内直接输入 
 
 	```npm install -g angular-cli```
 
-	
-	在国内的话,使用这个会比较慢,所以推荐用淘宝NPM镜像进行操作,它有几种使用的方式.
-	我使用的方式就是:
+	在国内的话,使用这个会比较慢,所以推荐用淘宝NPM镜像进行操作,它有几种使用的方式,我使用的方式就是:
 	<br/>
-	在命令行输入,安装好淘宝的cnpm工具
+
+	在命令行输入以下,安装好淘宝的cnpm工具:
 
 	```npm install -g cnpm --registry=https://registry.npm.taobao.org```
 
-	然后运行,进行安装angular-cli:
+	然后输入以下,进行安装angular-cli:
 
 	```cnpm install -g angular-cli```
 
-</p>
+
 - 就此就完成了安装的操作了.
 
 
